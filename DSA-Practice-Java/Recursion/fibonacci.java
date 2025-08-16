@@ -7,10 +7,10 @@ class  fibonacci  {
     }
 
     public static void main(String[] args) {
-        int terms = 10; // Number of terms to print
+        int num = 10; // Number of terms to print
         System.out.println("fibonacciNums Series:");
 
-        for (int i = 0; i < terms; i++) {
+        for (int i = 0; i < num; i++) {
             System.out.print(fibonacciNums(i) + " "); // Print each term
         }
     }

@@ -19,6 +19,7 @@ public class ArrayManipulation {
 
         return secondLargest; 
     }
+    
  
     public static void main(String[] args) {
       int [] nums = {44,5,1,45,1,4,5,};
